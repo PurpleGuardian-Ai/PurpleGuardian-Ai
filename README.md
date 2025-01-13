@@ -83,9 +83,10 @@ I’m continuously learning and growing my skills in:
 
 ## 📬 Get in Touch
 Let’s connect and talk about cybersecurity!  
-- **Email**: nigel.d.velasquez@outlook.com  
-- **LinkedIn**: https://www.linkedin.com/in/nigel-velasquez-324672181/ 
-- **GitHub**: https://github.com/PurpleGuardian-Ai  
+- **Email**: [nigel.d.velasquez@outlook.com](mailto:nigel.d.velasquez@outlook.com)
+- **LinkedIn**: [Nigel Velasquez](https://www.linkedin.com/in/nigel-velasquez-324672181/)
+- **GitHub**: [PurpleGuardian-Ai](https://github.com/PurpleGuardian-Ai)
+
 
 ---
 
