@@ -42,7 +42,7 @@ Hi there! I'm Nigel, an IT professional and aspiring cybersecurity expert passio
   - Disabled DHCP and manually assigned static IPs for network control.
   - Troubleshot issues including YAML configuration and log ingestion.
 - **Skills**: Network Design, Log Analysis, System Administration  
-- **[Active Directory Lab](https://github.com/PurpleGuardian-Ai/Active-Directory-Project)**
+- **[Active Directory Lab](https://purpleguardian-ai.github.io/Active-Directory-Project/)**
 
 ---
 
@@ -55,7 +55,7 @@ Hi there! I'm Nigel, an IT professional and aspiring cybersecurity expert passio
   - Conducted an `nmap` scan from Kali Linux to identify open ports and trigger Snort alerts.
 
 **Skills**: Virtual Network Configuration, Alert Analysis, IDS, Firewall Security
-- **[pfSense Lab](https://github.com/PurpleGuardian-Ai/pfSense-Lab)**
+- **[pfSense Lab](https://purpleguardian-ai.github.io/pfSense-Lab/)**
 
 ---
 
